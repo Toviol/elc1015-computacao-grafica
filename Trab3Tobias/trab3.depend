@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1747597174 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1742910185 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1747609006 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1747629864 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1747707595 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\collisionutils.cpp
+	"CollisionUtils.h"
+
+1747454240 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\collisionutils.h
+	"Vector2.h"
+	<vector>
+	<limits>
+	<algorithm>
+	<cmath>
+
+1747707335 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\enemies.cpp
+	"Enemies.h"
+	"Tank.h"
+	"Track.h"
+	"CollisionUtils.h"
+	<cmath>
+	<cstdlib>
+
+1747707276 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\enemies.h
+	"Vector2.h"
+	"gl_canvas2d.h"
+	<cstdlib>
+	<vector>
+	<cmath>
+	"Track.h"
+	"Projectile.h"
+	"CollisionUtils.h"
+
+1747706895 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\track.h
+	<vector>
+	"gl_canvas2d.h"
+	<cmath>
+	"Vector2.h"
+
+1747707448 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\projectile.h
+	"Vector2.h"
+	"gl_canvas2d.h"
+	<vector>
+	<cmath>
+
+1747708465 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\tank.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<vector>
+	"Projectile.h"
+	<algorithm>
+	"Enemies.h"
+	"Track.h"
+	"CollisionUtils.h"
+	"Explosion.h"
+	"NitroBoost.h"
+	"RapidFire.h"
+	"SuperBurst.h"
+	"Shield.h"
+	<cmath>
+	"TankRenderer.h"
+
+1747707458 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\explosion.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<cmath>
+	<cstdlib>
+
+1747708197 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\nitroboost.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<cmath>
+	<vector>
+	<cstdlib>
+
+1747708318 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\rapidfire.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<cmath>
+	<vector>
+	<cstdlib>
+
+1747708291 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\superburst.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<cmath>
+	<vector>
+	<cstdlib>
+
+1747708171 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\shield.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<cmath>
+	<vector>
+	<cstdlib>
+
+1747707051 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\tankrenderer.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1747610661 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1747613600 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Frames.h"
+	"Tela.h"
+
+1531759395 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1747706585 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\tela.h
+	"gl_canvas2d.h"
+	"Menu.h"
+	"Game.h"
+	"Background.h"
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1747706801 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\menu.h
+	"gl_canvas2d.h"
+	<string>
+	<vector>
+
+1747708530 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\game.h
+	"gl_canvas2d.h"
+	"Tank.h"
+	"Enemies.h"
+	"Track.h"
+	"Scoreboard.h"
+	"Levels.h"
+	<vector>
+	<cstdlib>
+	<sstream>
+	<cmath>
+
+1747707859 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\scoreboard.h
+	"gl_canvas2d.h"
+	<string>
+	<vector>
+	<iomanip>
+	<sstream>
+
+1747708416 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\levels.h
+	<vector>
+	<algorithm>
+
+1747706873 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\background.h
+	"gl_canvas2d.h"
+	"Track.h"
+	<vector>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+
+1747707065 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\backup12.6\src\tankrenderer.cpp
+	"TankRenderer.h"
+	"Tank.h"
+	"NitroBoost.h"
+	"RapidFire.h"
+	"SuperBurst.h"
+	"Shield.h"
+	"Projectile.h"
+	"Explosion.h"
+	<cmath>
+	<cstdio>
+

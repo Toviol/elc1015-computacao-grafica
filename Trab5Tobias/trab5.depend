@@ -1,0 +1,389 @@
+# depslib dependency file v1.0
+1751597672 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Tela.h"
+	"Frames.h"
+
+1632060799 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1751596971 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\tela.h
+	"Vector3.h"
+	"Asteroids.h"
+	"Compass.h"
+	"Sun.h"
+	"SistemaSolar.h"
+	<GL/glut.h>
+	<vector>
+	<string>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1751595385 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\vector3.h
+	<cmath>
+
+1650887927 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\bumpmap\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1531759698 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\bumpmap\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1710362958 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\bumpmap\texture.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"Bmp.h"
+
+1582233168 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\differential\superdiff.cpp
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<ctype.h>
+	"cilindro.h"
+	"gear.h"
+
+1371575680 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\differential\cilindro.h
+	<gl/glut.h>
+	<gl/gl.h>
+	<math.h>
+	"vetor.h"
+
+1369255502 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\differential\vetor.h
+	<math.h>
+
+1371575690 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\differential\gear.h
+	<gl/glut.h>
+	<gl/gl.h>
+	<math.h>
+
+1722256703 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\light\lighting.cpp
+	"GL/glut.h"
+	<math.h>
+	<stdio.h>
+
+1722253231 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\light\material.cpp
+	"GL/glut.h"
+	<math.h>
+	<stdio.h>
+
+1531759147 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\light\spot.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<ctype.h>
+
+1530738709 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\lookat.cpp
+	<GL/glut.h>
+	<math.h>
+
+1452536306 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\ortho2d.cpp
+	<GL/glut.h>
+
+1722252982 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\polygonmode.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdio.h>
+
+1650887927 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\texture\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1531759698 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\texture\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1710362958 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\texture\texture.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"Bmp.h"
+
+1495552647 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\exemplos\viewport.cpp
+	<GL/glut.h>
+
+1751596971 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\tela.cpp
+	"Tela.h"
+
+1749759717 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1751244119 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\objloader.h
+	"Vector3.h"
+	<GL/glut.h>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+
+1751595374 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\asteroids.h
+	"Vector3.h"
+	"Textura.h"
+	<GL/glut.h>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1751594963 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\compass.h
+	"Vector3.h"
+	<GL/glut.h>
+	<cmath>
+
+1751593564 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sun.h
+	"Vector3.h"
+	<GL/glut.h>
+	<cmath>
+
+1751591228 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sun.cpp
+	"Sun.h"
+	"Textura.h"
+
+1751591347 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\compass.cpp
+	"Compass.h"
+
+1751340287 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1751595056 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1751340333 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1751340287 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1751319793 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\compass.cpp
+	"Compass.h"
+
+1751319793 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\compass.h
+	"Vector3.h"
+	<GL/glut.h>
+	<cmath>
+
+1749783184 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\vector3.h
+	<cmath>
+
+1632060799 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1751563707 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Tela.h"
+
+1751567189 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\tela.h
+	"Vector3.h"
+	"Asteroids.h"
+	"Compass.h"
+	"Sun.h"
+	"SistemaSolar.h"
+	<GL/glut.h>
+	<vector>
+	<string>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1751560267 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\asteroids.h
+	"Vector3.h"
+	"Textura.h"
+	<GL/glut.h>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1751560048 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sun.h
+	"Vector3.h"
+	<GL/glut.h>
+	<cmath>
+
+1751565788 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sun.cpp
+	"Sun.h"
+	"Textura.h"
+
+1751569873 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\tela.cpp
+	"Tela.h"
+
+1751594949 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\textura.h
+	"Bmp.h"
+	<GL/glut.h>
+	<cmath>
+	<cstring>
+
+1751594940 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sistemasolar.h
+	"Planet.h"
+	"Sun.h"
+	"Vector3.h"
+	<vector>
+	<GL/glut.h>
+
+1751594931 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\planet.h
+	"Vector3.h"
+	"Textura.h"
+	<GL/glut.h>
+	<cmath>
+	<string>
+
+1751562925 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sistemasolar.cpp
+	"SistemaSolar.h"
+
+1751562925 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\textura.h
+	"Bmp.h"
+	<GL/glut.h>
+	<cmath>
+	<cstring>
+
+1751569873 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sistemasolar.h
+	"Planet.h"
+	"Sun.h"
+	"Vector3.h"
+	<vector>
+	<GL/glut.h>
+
+1751569873 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\planet.h
+	"Vector3.h"
+	"Textura.h"
+	<GL/glut.h>
+	<cmath>
+	<string>
+
+1751562925 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\sistemasolar.cpp
+	"SistemaSolar.h"
+
+1531759395 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\trab5tobias\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1751595056 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1751340287 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1751591347 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\compass.cpp
+	"Compass.h"
+
+1751594963 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\compass.h
+	"Vector3.h"
+	<GL/glut.h>
+	<cmath>
+
+1751595385 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\vector3.h
+	<cmath>
+
+1751597672 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Tela.h"
+	"Frames.h"
+
+1751596971 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\tela.h
+	"Vector3.h"
+	"Asteroids.h"
+	"Compass.h"
+	"Sun.h"
+	"SistemaSolar.h"
+	<GL/glut.h>
+	<vector>
+	<string>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1751595374 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\asteroids.h
+	"Vector3.h"
+	"Textura.h"
+	<GL/glut.h>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1751594949 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\textura.h
+	"Bmp.h"
+	<GL/glut.h>
+	<cmath>
+	<cstring>
+
+1751593564 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\sun.h
+	"Vector3.h"
+	<GL/glut.h>
+	<cmath>
+
+1751594940 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\sistemasolar.h
+	"Planet.h"
+	"Sun.h"
+	"Vector3.h"
+	<vector>
+	<GL/glut.h>
+
+1751594931 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\planet.h
+	"Vector3.h"
+	"Textura.h"
+	<GL/glut.h>
+	<cmath>
+	<string>
+
+1531759395 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1751562925 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\sistemasolar.cpp
+	"SistemaSolar.h"
+
+1751591228 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\sun.cpp
+	"Sun.h"
+	"Textura.h"
+
+1751596971 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\5.semestre\cg\trabalhos cg\teste\src\tela.cpp
+	"Tela.h"
+

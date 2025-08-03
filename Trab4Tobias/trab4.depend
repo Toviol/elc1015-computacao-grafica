@@ -1,0 +1,339 @@
+# depslib dependency file v1.0
+1747597174 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1742910185 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1748152603 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1748152441 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1748149104 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1748149207 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Frames.h"
+	"Tela.h"
+
+1531759395 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1748153001 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\trab4tobias\src\tela.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	<functional>
+
+1747597174 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1742910185 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1748152603 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1748152441 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1748149104 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1749518581 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Frames.h"
+	"Tela.h"
+
+1531759395 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1749527644 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\tela.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	<functional>
+
+1747597174 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1742910185 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1748152603 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1748152441 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1748149104 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1749518581 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Frames.h"
+	"Tela.h"
+
+1531759395 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1749681203 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao1\src\tela.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	<functional>
+
+1747597174 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1742910185 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1748152603 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1748152441 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1748149104 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1749518581 source:c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Frames.h"
+	"Tela.h"
+
+1531759395 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1749748690 c:\users\tobias viero\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\tela.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	<functional>
+
+1747597174 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1742910185 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1748152603 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1749759717 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\vector2.h
+	<cmath>
+	<cstdio>
+
+1748149104 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1749782509 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Frames.h"
+	"Tela.h"
+
+1531759395 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1749782762 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\tela.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Vector3.h"
+	"Matrix4x4.h"
+	"UIButton.h"
+	"BezierGenerator.h"
+	"ModelGenerator.h"
+	"Camera3D.h"
+	"Rasterizer.h"
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	<functional>
+
+1749783184 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\vector3.h
+	<cmath>
+
+1749783366 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\matrix4x4.h
+	"Vector3.h"
+	<cmath>
+
+1749783131 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\uibutton.h
+	"gl_canvas2d.h"
+	<string>
+	<functional>
+
+1749758365 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\beziergenerator.h
+	"Vector2.h"
+	<vector>
+	<cmath>
+
+1749783390 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\modelgenerator.h
+	"Vector2.h"
+	"Vector3.h"
+	"gl_canvas2d.h"
+	<vector>
+	<cmath>
+	<algorithm>
+
+1749758384 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\camera3d.h
+	"Vector3.h"
+	"Matrix4x4.h"
+	"gl_canvas2d.h"
+	<cmath>
+
+1749783412 c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\rasterizer.h
+	"Vector2.h"
+	"Vector3.h"
+	"gl_canvas2d.h"
+	<vector>
+	<algorithm>
+	<cmath>
+
+1749783017 source:c:\users\tovio\onedrive - ufn - universidade franciscana\ufsm\ciência da computação\quinto semestre\cg\trabalhos cg\versao5.normais\src\tela.cpp
+	"Tela.h"
+
